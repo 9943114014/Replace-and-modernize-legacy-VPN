@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<header> </header>
+<div id="menu"> </div>
+<div id="main">
+<h1></h1>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Cheers, Malik Mesellem</p>
+</div>
+<div id="sponsor"></div>
+<div id="side"> </div>
+<div id="disclaimer"></div>
+<div id="bee"></div>
+</body>
+</html>
